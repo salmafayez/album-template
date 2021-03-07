@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.home{
+    min-height: 350px;
+}
+.gallery{
+    min-height: 1000px;
+}
+.card{
+    min-height:200px;
+}
+.thumbnail{
+    min-height: 200px;
+    background-color: #55595c;
+}
+footer{
+    min-height: 150px;
+}
+i{
+    color: white;
+}
